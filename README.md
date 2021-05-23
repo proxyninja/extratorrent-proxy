@@ -1,4 +1,4 @@
-#ExtraTorrent Proxy List — Unblocked ExtraTorrent Mirror Sites 2021
+# ExtraTorrent Proxy List — Unblocked ExtraTorrent Mirror Sites 2021
 
 If you are the one who is facing a geographical restriction of the ExtraTorrent and then you landed on the right spot. Extratorrent blocked in United States, United Kingdom, Spain, Russia, France, Turkey, Pakistan, India and Italy. We will tell you how one can use extratorrent proxy in your region. What you have to do is to install any VPN and search your site. You can check the list of the working Extratorrent sites below to get benefited.
 
