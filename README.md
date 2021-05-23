@@ -36,3 +36,5 @@ YTS comes from the creators of Yify Torrents. Its main purpose is downloading HD
 
 ### 5. LimeTorrents
 LimeTorrents is the fourth largest torrent site. Its torrent search engine contains over 10 million active torrents. The site is noticeably clean and simple, but boasts a massive media library.
+
+More info: https://extratorrent-proxy.readthedocs.io/en/latest/
